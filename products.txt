@@ -1,0 +1,6 @@
+id, item, sold, quantity, picture
+1, apple watch, 5, 7, https://i5.walmartimages.com/seo/Apple-Watch-Series-7-GPS-Cellular-45mm-Blue-Aluminum-Case-with-Abyss-Blue-Sport-Band-Regular_29f1d121-44ce-4b96-9e09-727a35298995.1a0ac15e4b691e158a0c52b07d70e5ea.jpeg
+2, samsung s24, 0, 5, https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKj7HKayTmlt9bkNk5-7FsNegPmJsEOYP1tA&s
+3, xiaomi smart watch, 5, 5, https://genarc.lk/wp-content/uploads/2024/04/Xiaomi-Redmi-Watch-4-Black-Cover-01-GenArc-Sri-Lanka.jpg
+4, labubu doll, 0, 15, https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFqhbEbhXJ5MHEwz8n5cMRhHWx6aQ6jlkFPg&s
+5, magic mouse, 18, 18, https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwR38TiJ6XN3KJApP0P4mQZehQ541YDptefQ&s
